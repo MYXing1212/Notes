@@ -51,22 +51,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "4dceece368f10b40",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c79cf0b3e212ca41",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -231,8 +215,8 @@
   },
   "active": "5bf6c2ce0e741a6e",
   "lastOpenFiles": [
-    "未命名.md",
     "Test.md",
+    "未命名.md",
     "Notes/README.md",
     "Notes",
     "三维测量/未命名.md",
