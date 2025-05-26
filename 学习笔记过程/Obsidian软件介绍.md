@@ -29,7 +29,7 @@ Obsidian  是一款以markdown语法为核心并进行拓展编辑的笔记软�
 传统的记笔记的软件（Onenote软件）里，文件与文件之间没有关联关系
 
 **obsidian的精髓**：
-但是obsidian是通过**双向链接**的功能，让不同知识点之间产生横向联系，可以形成一个网络，有利于整理碎片化的知识。
+obsidian是通过**双向链接**的功能，让不同知识点之间产生横向联系，可以形成一个网络，有利于整理碎片化的知识。
 
 ### Obsidian 的特点
 
@@ -60,9 +60,8 @@ Obsidian  是一款以markdown语法为核心并进行拓展编辑的笔记软�
 
 
 ### Obsidian 的缺点
-
 - **学习成本较高** ：对于初次使用的用户来说，Obsidian 的一些高级功能和插件配置可能需要一定的==学习时间==来掌握，尤其是一些复杂的图表视图和双向链接的使用技巧，可能会让用户感到困惑。
-$
+
 - **同步和备份相对复杂** ：虽然支持使用第三方工具如==Git 或 OneDrive== 进行同步和备份，但相比一些云原生的笔记应用，Obsidian 的同步和备份功能不够直观和便捷，需要用户自行设置和管理。
     
 - **社区和插件质量参差不齐** ：插件生态系统虽然丰富，但插件的质量和稳定性可能会有所不同，部分插件可能存在兼容性问题或功能缺陷，需要用户自行甄别和测试。
@@ -79,7 +78,6 @@ $
 5、点击笔记上的三个点，可以打开笔记的功能菜单
 6、在文件列表中可以观察到本库中的所有列表
 7、新建白板、新建文件夹，排序折叠等等。
-
 
 
 [obsidian入门指南](https://blog.csdn.net/duleilewuhen/article/details/132418593?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-132418593-blog-129927461.235%5Ev43%5Epc_blog_bottom_relevance_base7&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-132418593-blog-129927461.235%5Ev43%5Epc_blog_bottom_relevance_base7&utm_relevant_index=2)
