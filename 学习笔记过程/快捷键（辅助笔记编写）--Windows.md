@@ -6,6 +6,7 @@ Ctrl+N ：快速创建笔记
 Ctrl+S  ：保存当前笔记
 Ctrl+shift+T :打开最近<font color="#0000dd">关闭的笔记</font>
 Ctrl+ Shift + N在当前文件夹中新建子文件夹或子笔记
+Ctrl+ Shift + K 删除整行
 Ctrl+ E：转换编辑模式。
 Ctrl + F：在当前笔记中搜索。
 Ctrl + /：将当前行或所选文本设置为注释。
@@ -30,11 +31,6 @@ Ctrl+T:新建标签页
 
 F2:查看帮助
 F11：全屏操作
-
-
-
-
-
 
 
 %% 一共有六级标题 %%
