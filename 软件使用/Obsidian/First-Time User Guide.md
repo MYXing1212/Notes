@@ -53,7 +53,10 @@
 配合Blue Topaz使用，甚好
 ![[Pasted image 20250527160820.png|362]]
 
-### 9. Auto Link Title （可选）
+### 9. [[Excalidraw]] （可选）
+绘图 
+
+### 10. Auto Link Title （可选）
 [[Auto Link Title]] 需重启Obsidian生效
 将粘贴的URL网址，自动解析其Title，并替换
 
