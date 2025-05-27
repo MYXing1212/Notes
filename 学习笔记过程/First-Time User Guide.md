@@ -20,6 +20,7 @@
 
 - 主题启用之后图片自动居中
 - 字体添加
+---
 
 
 # 安装插件
@@ -35,6 +36,10 @@
 
 ### 4. Image Toolkit
 图片查看和简单编辑
+
+### 5. Auto Link Title （可选）
+[[Auto Link Title]] 需重启Obsidian生效
+将粘贴的URL网址，自动解析其Title，并替换
 
 
 ---
