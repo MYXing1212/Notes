@@ -28,18 +28,35 @@
 配合设置快捷键，在当前行之前插入行，在当前行之后插入行；安装并启用插件后，见下一节配置快捷键内容。
 
 ### 2. Git 
-参见 [[笔记同步]]
+参见 [[Git 笔记同步]]
 
 ### 3. BART 
 方便从Github中安装一些插件（Obsidian插件浏览中搜不到的）
 参见 [[BART —— 拖动Note调整顺序]] 实现可以在左侧的目录中自由拖动Note，改变Note的排序位置（默认不支持拖动排序）
 
-### 4. Image Toolkit
+### 4. Image Toolkit + Mousewheel Image Zoom
 图片查看和简单编辑
+![[Pasted image 20250527155618.png|650]]
 
-### 5. Auto Link Title （可选）
+### 5. [[Advanced Codeblock]]
+代码块显示行号
+部分代码行高亮（不常用）
+
+### 6. [[Latex Suite 加速公式输入]]
+公式编辑 
+
+### 7. Recent Files 
+显示最近使用的文件
+![[Pasted image 20250527155756.png]]
+
+### 8. Style Settings
+配合Blue Topaz使用，甚好
+![[Pasted image 20250527160820.png|362]]
+
+### 9. Auto Link Title （可选）
 [[Auto Link Title]] 需重启Obsidian生效
 将粘贴的URL网址，自动解析其Title，并替换
+
 
 
 ---
