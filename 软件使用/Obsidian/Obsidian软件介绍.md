@@ -23,10 +23,6 @@ Obsidian  是一款以markdown语法为核心并进行拓展编辑的笔记软�
 - ==版本控制==：可以记录笔记的历史版本，方便用户查看和恢复之前的修改内容，避免误操作导致的数据丢失。
 
 
-
-
-
-
 传统的记笔记的软件（Onenote软件）里，文件与文件之间没有关联关系
 
 **obsidian的精髓**：
@@ -83,3 +79,7 @@ obsidian是通过**双向链接**的功能，让不同知识点之间产生横�
 
 [obsidian入门指南](https://blog.csdn.net/duleilewuhen/article/details/132418593?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-132418593-blog-129927461.235%5Ev43%5Epc_blog_bottom_relevance_base7&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-132418593-blog-129927461.235%5Ev43%5Epc_blog_bottom_relevance_base7&utm_relevant_index=2)
 
+
+# 我们使用Obsidian的目的
+1. 推荐一款免费且好用的笔记软件；
+2. 打造课题组内共享知识库，增强知识经验共享；
