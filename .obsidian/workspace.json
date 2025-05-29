@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "4efd8fa6baf291af",
+    "type": "split",
+    "children": [
+      {
+        "id": "c351b051b038ee32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11749df9dc772c8c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0611f34bd8233973",
+    "type": "split",
+    "children": [
+      {
+        "id": "14b4420c0f191403",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed1902c4cf161391",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0ec74faced501180",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ca3c853b57c79a1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7191e1fe19d67ff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "94d512006bc116db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b99ced69787f69e3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "8ee703a8860e8b3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "9eb364b816e500c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "de27160b756141a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "11749df9dc772c8c",
+  "lastOpenFiles": [
+    "xuexibiji/课题组/研究方向.md",
+    "xuexibiji/课题组",
+    "xuexibiji/编程/Qt/主进程启动任务并更新进度条.md",
+    "xuexibiji/编程/C++/C++ 多集合迭代器实现.md",
+    "xuexibiji/编程/Qt",
+    "xuexibiji/编程/C++",
+    "xuexibiji/编程",
+    "xuexibiji/深度学习/PointCloud/attachments/Pasted image 20250522154902.png",
+    "xuexibiji/深度学习/PointCloud/attachments/Pasted image 20250522150125.png",
+    "xuexibiji/深度学习/PointCloud/attachments/Pasted image 20250522145123.png",
+    "xuexibiji/深度学习/PointCloud/Windows编译Mamba报错.md",
+    "xuexibiji/深度学习/PointCloud/PointCloudMamba配置.md",
+    "xuexibiji/深度学习/PointCloud/attachments",
+    "xuexibiji/深度学习/Mamba/SSM的离散时间表示中，矩阵的零阶保持变换.md",
+    "xuexibiji/深度学习/attachments/Pasted image 20250522173229.png",
+    "xuexibiji/深度学习/attachments/Pasted image 20250522172949.png",
+    "xuexibiji/深度学习/attachments/Pasted image 20250522111513.png",
+    "xuexibiji/深度学习/PointCloud",
+    "xuexibiji/深度学习/Mamba",
+    "xuexibiji/深度学习/HiPPO.md",
+    "xuexibiji/深度学习/attachments",
+    "xuexibiji/深度学习",
+    "xuexibiji/文献阅读/PointNet Mamba.md",
+    "xuexibiji/文献阅读/Point Cloud Mamba：通过状态空间模型的点云学习.md",
+    "xuexibiji/文献阅读",
+    "xuexibiji/软件使用/Obsidian/插件/attachments/Pasted image 20250527140942.png",
+    "xuexibiji/软件使用/Obsidian/插件/attachments/Pasted image 20250527140912.png",
+    "xuexibiji/软件使用/Obsidian/插件/attachments/Pasted image 20250526124542.png",
+    "xuexibiji/软件使用/Obsidian/插件/attachments/Pasted image 20250526124447.png",
+    "xuexibiji/软件使用/Obsidian/插件/常用.md",
+    "xuexibiji/软件使用/Obsidian/插件/Latex Suite 加速公式输入.md",
+    "xuexibiji/软件使用/Obsidian/插件/Git 笔记同步.md",
+    "xuexibiji/软件使用/Obsidian/插件/Excalidraw.md",
+    "xuexibiji/软件使用/Obsidian/插件/Auto Link Title.md",
+    "xuexibiji/软件使用/Obsidian/插件/BART —— 拖动Note调整顺序.md",
+    "xuexibiji/软件使用/Obsidian/插件/Advanced Codeblock.md",
+    "xuexibiji/软件使用/Obsidian/Templates/LatexToMarkdown.md",
+    "xuexibiji/软件使用/PyCharm/在PyCharm中配置环境变量.md",
+    "xuexibiji/软件使用/PyCharm/安装deepspeed报错.md",
+    "xuexibiji/软件使用/Obsidian/笔记编辑.md",
+    "xuexibiji/软件使用/Obsidian/快捷键（辅助笔记编写）--Windows.md",
+    "xuexibiji/软件使用/Obsidian/与zotero的联动方式.md",
+    "xuexibiji/软件使用/Obsidian/Obsidian软件介绍.md",
+    "xuexibiji/软件使用/Obsidian/obsidian的软件操作.md",
+    "xuexibiji/软件使用/Obsidian/Markdown.md",
+    "xuexibiji/软件使用/Obsidian/First-Time User Guide.md"
+  ]
+}
