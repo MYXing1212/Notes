@@ -15,11 +15,9 @@
 【设置】-> 【Editor】-> Smart lists 关闭
 
 ![[Pasted image 20250526141746.png]]
-
-
-|     |     |
-| --- | --- |
-|     |     |
+- 打开智能列表（举例说明）
+	1. 智能列表
+	2. 自动补充
 
 ### 3. 更改主题 （可选）
 ![[Pasted image 20250526150331.png]]
@@ -28,6 +26,7 @@
 
 - 主题启用之后图片自动居中
 - 字体添加
+[[Blue Topaz主题]]
 ---
 [Branches · MYXing1212/Notes · GitHub](https://github.com/MYXing1212/Notes/branches)
 [Obsidian：Latex公式编辑\_obsidian latex-CSDN博客](https://blog.csdn.net/CoderZzz6310/article/details/136465857?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-2-136465857-blog-129645682.235%5Ev43%5Epc_blog_bottom_relevance_base7&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-2-136465857-blog-129645682.235%5Ev43%5Epc_blog_bottom_relevance_base7&utm_relevant_index=3)
@@ -84,7 +83,6 @@
 ### 13. Auto Link Title （可选）
 [[Auto Link Title]] 需重启Obsidian生效
 将粘贴的URL网址，自动解析其Title，并替换
-
 
 
 
