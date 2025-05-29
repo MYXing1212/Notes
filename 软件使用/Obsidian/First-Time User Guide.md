@@ -17,6 +17,10 @@
 ![[Pasted image 20250526141746.png]]
 
 
+|     |     |
+| --- | --- |
+|     |     |
+
 ### 3. 更改主题 （可选）
 ![[Pasted image 20250526150331.png]]
 
@@ -25,6 +29,8 @@
 - 主题启用之后图片自动居中
 - 字体添加
 ---
+[Branches · MYXing1212/Notes · GitHub](https://github.com/MYXing1212/Notes/branches)
+[Obsidian：Latex公式编辑\_obsidian latex-CSDN博客](https://blog.csdn.net/CoderZzz6310/article/details/136465857?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-2-136465857-blog-129645682.235%5Ev43%5Epc_blog_bottom_relevance_base7&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-2-136465857-blog-129645682.235%5Ev43%5Epc_blog_bottom_relevance_base7&utm_relevant_index=3)
 
 
 # 安装插件
@@ -34,13 +40,13 @@
 ### 2. Git 
 参见 [[Git 笔记同步]]
 
-### 3. BART 
+### 3. BRAT 
 方便从Github中安装一些插件（Obsidian插件浏览中搜不到的）
-参见 [[BART —— 拖动Note调整顺序]] 实现可以在左侧的目录中自由拖动Note，改变Note的排序位置（默认不支持拖动排序）
+参见 [[BRAT —— 拖动Note调整顺序]] 实现可以在左侧的目录中自由拖动Note，改变Note的排序位置（默认不支持拖动排序）
 
 ### 4. Image Toolkit + Mousewheel Image Zoom
 图片查看和简单编辑
-![[Pasted image 20250527155618.png|650]]
+![[Pasted image 20250527155618.png|700]]
 
 ### 5. [[Advanced Codeblock]]
 代码块显示行号
@@ -48,6 +54,7 @@
 
 ### 6. [[Latex Suite 加速公式输入]]
 公式编辑 
+[在线编辑](https://www.latexlive.com/)
 
 ### 7. Recent Files 
 显示最近使用的文件
