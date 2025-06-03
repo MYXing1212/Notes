@@ -1,7 +1,11 @@
 
+**📅 DateTime**  2025-05-29 10:19           **👤 Author    Xing Mingyi  
+
+
 # 软件设置
 
-### 1. 修改粘贴图片默认存储路径
+### 1. 修改粘贴图片默认存储路径 
+配合[[File Explorer++]]插件使用，隐藏列表中粘贴图片项
 ![[Pasted image 20250526150914.png]]
 
 ### 2. 禁用编辑器自动格式化（可选）
@@ -11,16 +15,21 @@
 【设置】-> 【Editor】-> Smart lists 关闭
 
 ![[Pasted image 20250526141746.png]]
-
+- 打开智能列表（举例说明）
+	1. 智能列表
+	2. 自动补充
 
 ### 3. 更改主题 （可选）
 ![[Pasted image 20250526150331.png]]
 
-![[Pasted image 20250526150403.png]]
+![[Pasted image 20250526150403.png|1050]]
 
 - 主题启用之后图片自动居中
 - 字体添加
+[[Blue Topaz主题]]
 ---
+[Branches · MYXing1212/Notes · GitHub](https://github.com/MYXing1212/Notes/branches)
+[Obsidian：Latex公式编辑\_obsidian latex-CSDN博客](https://blog.csdn.net/CoderZzz6310/article/details/136465857?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-2-136465857-blog-129645682.235%5Ev43%5Epc_blog_bottom_relevance_base7&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-2-136465857-blog-129645682.235%5Ev43%5Epc_blog_bottom_relevance_base7&utm_relevant_index=3)
 
 
 # 安装插件
@@ -30,13 +39,13 @@
 ### 2. Git 
 参见 [[Git 笔记同步]]
 
-### 3. BART 
+### 3. BRAT 
 方便从Github中安装一些插件（Obsidian插件浏览中搜不到的）
-参见 [[BART —— 拖动Note调整顺序]] 实现可以在左侧的目录中自由拖动Note，改变Note的排序位置（默认不支持拖动排序）
+参见 [[BRAT —— 拖动Note调整顺序]] 实现可以在左侧的目录中自由拖动Note，改变Note的排序位置（默认不支持拖动排序）
 
 ### 4. Image Toolkit + Mousewheel Image Zoom
 图片查看和简单编辑
-![[Pasted image 20250527155618.png|650]]
+![[Pasted image 20250527155618.png|700]]
 
 ### 5. [[Advanced Codeblock]]
 代码块显示行号
@@ -44,6 +53,7 @@
 
 ### 6. [[Latex Suite 加速公式输入]]
 公式编辑 
+[在线编辑](https://www.latexlive.com/)
 
 ### 7. Recent Files 
 显示最近使用的文件
@@ -55,16 +65,28 @@
 
 ### 9.   Insert New Line
 配合设置快捷键，在当前行之前插入行，在当前行之后插入行；安装并启用插件后，见下一节配置快捷键内容。
+可用来解决图片后换行的问题！
 
-### 10. Enhancing Mindmap （可选）
+### 10. Templates [[插入模板]] 
+插入模板，提高效率
+
+### 11.[[Tasks 任务管理]]任务管理效率翻倍
+
+### 12. [[File Explorer++]]
+置顶 / 隐藏
+用法一：隐藏左侧列表中的粘贴图片，操作见链接
+用法二：不关注文件夹/笔记，Hide；关注的置顶
+
+### 13. Enhancing Mindmap （可选）
 思维导图
 
-### 11. [[Excalidraw]] （可选）
+### 14. [[Excalidraw]] （可选）
 绘图 
 
-### 12. Auto Link Title （可选）
+### 15. Auto Link Title （可选）
 [[Auto Link Title]] 需重启Obsidian生效
 将粘贴的URL网址，自动解析其Title，并替换
+
 
 
 
@@ -81,19 +103,31 @@
 ---
 
 # 注意事项  
-## 请不要在公共仓库内上传较大的文件
+## 1. 请不要在公共仓库内上传较大的文件
 建议将大文件保存在网盘，公共仓库只保留文件链接
 
-## 公共仓库仅推送[[研究方向]]相关的技术资料
+## 2. 更新公共仓库的标准动作
+推荐使用SourceTree进行更新
+Step 1   查看本地仓库有无未提交更改，若有更改，先本地提交。防止拉取远端时，将本地修改冲掉；
+Step 2  拉取远端，可勾上变基；
+Step 3  推送远端；
+
+## 3. 公共仓库仅推送[[研究方向]]相关的技术资料
 典型内容包括
 1）代码片段，最好能实现某一具体的功能；
 2）解bug，配环境踩坑记录；
 3）文献阅读笔记；
-4）好用的软件、在线工具等；
+4）好用的软件、在线工具等，软件使用心得技巧；
 5）推荐的学习资料，比如CSDN博客/资源，Github项目，给出链接即可；
 
-个人资料可以上传自己的私有仓库
+## 4. 不推送公共仓库的几种情况
+1. 个人文件建议建立个人私人仓库；
+2. 在公共仓库对应的本地目录，需要添加文件，但仅自己使用，不推送远端的情况。
+可右键笔记，选择添加至.gitignore
 
-## 鼓励写笔记时链接其他笔记内容
+![[Pasted image 20250529100800.png]]
+
+
+## 5. 鼓励写笔记时链接其他笔记内容
 
 

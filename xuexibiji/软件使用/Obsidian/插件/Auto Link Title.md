@@ -1,3 +1,7 @@
+
+**📅 DateTime**  2025-05-29 09:59           **👤 Author    Xing Mingyi  
+
+
 ### **Obsidian Auto Link Title 插件用法详解**
 
 **Auto Link Title** 是 Obsidian 的一个实用插件，它能自动将粘贴的 URL 转换为包含网页标题的 Markdown 链接格式（如 `[网页标题](URL)`），提升笔记整理效率。
