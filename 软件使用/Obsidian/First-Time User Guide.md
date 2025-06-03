@@ -70,18 +70,20 @@
 ### 10. Templates [[插入模板]] 
 插入模板，提高效率
 
-### 11. [[File Explorer++]]
+### 11.[[Tasks 任务管理]]任务管理效率翻倍
+
+### 12. [[File Explorer++]]
 置顶 / 隐藏
 用法一：隐藏左侧列表中的粘贴图片，操作见链接
 用法二：不关注文件夹/笔记，Hide；关注的置顶
 
-### 11. Enhancing Mindmap （可选）
+### 13. Enhancing Mindmap （可选）
 思维导图
 
-### 12. [[Excalidraw]] （可选）
+### 14. [[Excalidraw]] （可选）
 绘图 
 
-### 13. Auto Link Title （可选）
+### 15. Auto Link Title （可选）
 [[Auto Link Title]] 需重启Obsidian生效
 将粘贴的URL网址，自动解析其Title，并替换
 
