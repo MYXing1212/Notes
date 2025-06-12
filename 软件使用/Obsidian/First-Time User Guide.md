@@ -87,6 +87,8 @@
 [[Auto Link Title]] 需重启Obsidian生效
 将粘贴的URL网址，自动解析其Title，并替换
 
+### 16. Emoji Toorbar(可选)
+提供指令（设置快捷键后可使用）插入表情，贴画
 
 
 
